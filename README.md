@@ -11,4 +11,4 @@ Just in case i did something wrong with the upload, I added a zipped verion of t
 Run the project:
 1) If you have java on your computer, you can open cmd and use the below command to run it:
 java -jar executable.jar
-2) Import the project in an IDE
+2) Import the project in an IDE and run
